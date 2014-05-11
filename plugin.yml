@@ -1,0 +1,7 @@
+name: SimpleShoutout
+main: Simple.YouTubeShoutout
+version: 1.0
+Author: yhSimple
+commands:
+  channelshout:
+    description: This broadcasts the YouTube channel to the server.
